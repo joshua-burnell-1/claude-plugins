@@ -9,13 +9,19 @@
     {
       "name": "prompt-squeeze",
       "description": "Builds prompt-cost discipline into Claude Code: measure every prompt, surface avoidable spend, report org-wide. Skill + UserPromptSubmit hook + MCP rollup with cited dollar/Wh/CO2e receipts.",
-      "version": "0.3.1",
+      "version": "0.3.2",
       "category": "productivity",
-      "tags": ["cost", "tokens", "sustainability", "compression", "savings"],
+      "tags": [
+        "cost",
+        "tokens",
+        "sustainability",
+        "compression",
+        "savings"
+      ],
       "source": {
         "source": "url",
         "url": "https://github.com/joshua-burnell-1/prompt-squeeze.git",
-        "ref": "v0.3.1"
+        "ref": "v0.3.2"
       },
       "homepage": "https://github.com/joshua-burnell-1/prompt-squeeze"
     }
